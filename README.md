@@ -1,2 +1,3 @@
-# GNH
-All the work for the GNH Site lives here
+# GNH Lab
+-GNH Lab website
+-***Features***:
