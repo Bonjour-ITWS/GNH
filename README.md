@@ -2,4 +2,8 @@
 -GNH Lab website
 
 
--***Features***:
+-***Features***: 
+
+  -A footer with text created with AJAX
+  -Bootstrap with Automated Mobile Design
+
