@@ -2,4 +2,4 @@
 -GNH Lab website
 
 
--***Features***:
+-Don't merge with Main-AJAX Calls need to be added for the repeated text.
