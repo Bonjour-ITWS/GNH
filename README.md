@@ -4,7 +4,7 @@
 
 -***Features***: 
 
-  -A footer with text created with AJAX
+    -A footer with text created with AJAX
   
-  -Bootstrap with Automated Mobile Design
+    -Bootstrap with Automated Mobile Design
 
